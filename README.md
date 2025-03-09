@@ -1,1 +1,1 @@
-[200~🚧 Projeto em andamento 🚧~
+~🚧 Projeto em andamento 🚧~
