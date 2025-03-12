@@ -30,8 +30,7 @@ Aqui está um print do projeto para que você veja como ele ficou:
 
 ![Print do Projeto](images/print-projeto.png)
 
-
 ## Licença
 
-    Este projeto é de código aberto e foi desenvolvido como parte do evento **NLW Connect 19** da **Rocketseat**.
+    Este projeto é de código aberto e foi desenvolvido como parte do evento NLW Connect 19 da Rocketseat.
     
