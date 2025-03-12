@@ -1,5 +1,5 @@
 
-# <NLW/> CONNECT 19 - Dev Stage
+# NLW CONNECT 19 - Dev Stage
 
 Projeto desenvolvido durante o evento gratuito **NLW Connect 19** da Rocketseat.
 
